@@ -1,0 +1,8 @@
+.nk-portfolio-images img + img {
+  margin-top: 15px;
+}
+
+.about-signature {
+  width: 150px;
+  margin-top: 10px;
+}
